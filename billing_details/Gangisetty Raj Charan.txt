@@ -1,0 +1,4 @@
+Bill breakdown:
+Noodes:                   ...$78
+tip:                      ...$0
+total:                    ...$78.00
